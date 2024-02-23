@@ -21,3 +21,9 @@ cd Calculator-py
 ```bash
 python calculadora.py
 ```
+
+obs: Vc vai precisar da biblioteca readchar, instale ela com:
+
+```bash
+pip install readchar
+```
