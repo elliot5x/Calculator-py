@@ -7,17 +7,17 @@ Esta é uma calculadora simples em Python :)
 1. Você vai precisar é claro, do python.
    - Você pode baixá-lo [aqui](https://www.python.org/downloads/).
 
-3. Clone o repositório:
+2. Clone o repositório:
 
    ```bash
    git clone https://github.com/elliot5x/Calculator-py.git
    ```
-Navegue até o diretório da calculadora:
+3. Navegue até o diretório da calculadora:
 
 ```bash
 cd Calculator-py
 ```
-Execute com:
+4. Execute com:
 ```bash
 python calculadora.py
 ```
